@@ -14,11 +14,11 @@ If you want to know more about [Selenium](https://selenium-python.readthedocs.io
 
 
 ## Drivers
-> Chrome Drivers for Automation
+> Chrome Drivers for Automation.
 
 Download latest Chrome Drivers.
 
-Chrome drivers [available here](https://chromedriver.chromium.org/downloads)
+Chrome drivers [available here](https://chromedriver.chromium.org/downloads).
 
 ## Team
 
@@ -30,8 +30,8 @@ Chrome drivers [available here](https://chromedriver.chromium.org/downloads)
 
 ### Suggestions
 
-> Use a better Internet Connection
+> Use a better Internet Connection.
 
-> Use the suitable Chrome Drivers
+> Use the suitable Chrome Drivers.
 
 **Instagram Automation Tool #instagram #automation #instagram_automation #uktentu #Projects #Intern**
