@@ -20,7 +20,18 @@ Download latest Chrome Drivers.
 
 Chrome drivers [available here](https://chromedriver.chromium.org/downloads)
 
-# Contributers
+## Team
 
+1.  Tentu Uday Kiran ........... [GitHub](https://github.com/uktentu) ........... [LinkedIn](linkedin.com/in/uday-kiran-tentu-9b3b90211)
 
-Instagram Automation Tool #instagram #automation #instagram_automation #uktentu #Projects #Intern
+2.  Chavva Teja Venkata Ratna Sai Kumar ........... [GitHub](https://github.com/TejaChavva123) ........... [LinkedIn](https://www.linkedin.com/in/teja-venkata-chavva-544833212)
+
+3.  Sabareesh ........... [Github](https://github.com/Sabareesh45) ........... [LinkedIn](https://www.linkedin.com/in/sabareesh-chakka-83a18221a)
+
+### Suggestions
+
+> Use a better Internet Connection
+
+> Use the suitable Chrome Drivers
+
+**Instagram Automation Tool #instagram #automation #instagram_automation #uktentu #Projects #Intern**
