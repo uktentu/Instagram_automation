@@ -26,7 +26,7 @@ Chrome drivers [available here](https://chromedriver.chromium.org/downloads).
 
 2.  Chavva Teja Venkata Ratna Sai Kumar ........... [GitHub](https://github.com/TejaChavva123) ........... [LinkedIn](https://www.linkedin.com/in/teja-venkata-chavva-544833212)
 
-3.  Sabareesh ........... [Github](https://github.com/Sabareesh45) ........... [LinkedIn](https://www.linkedin.com/in/sabareesh-chakka-83a18221a)
+3.  Chakka Sabareesh ........... [Github](https://github.com/Sabareesh45) ........... [LinkedIn](https://www.linkedin.com/in/sabareesh-chakka-83a18221a)
 
 ### Suggestions
 
