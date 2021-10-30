@@ -111,7 +111,7 @@ class insta_auto():
             except:
                 continue
 
-            self.links=[]
+        self.links=[]
 
                 
 
