@@ -31,10 +31,10 @@ Chrome drivers [available here](https://chromedriver.chromium.org/downloads).
 1.  Tentu Uday Kiran ........... [GitHub](https://github.com/uktentu) ........... [LinkedIn](https://www.linkedin.com/in/uday-kiran-tentu-9b3b90211)
 
 
-2.  Sudha Jithendra Reddy ........... [GitHub](https://github.com/) ........... [LinkedIn](https://www.linkedin.com/in/sudha-jithendra-reddy-860953206)
+2.  Sudha Jithendra Reddy ........... [GitHub](https://github.com/Sudhajithendra) ........... [LinkedIn](https://www.linkedin.com/in/sudha-jithendra-reddy-860953206)
 
 
-3.  Pesala Veera Venkata Nikhilesh  ........... [GitHub](https://github.com/) ........... [LinkedIn](https://www.linkedin.com/in/nikhilesh-pesala-veera-venkata/)
+3.  Pesala Veera Venkata Nikhilesh  ........... [GitHub](https://github.com/nikhileshpesala) ........... [LinkedIn](https://www.linkedin.com/in/nikhilesh-pesala-veera-venkata/)
 
 
 ### Suggestions
