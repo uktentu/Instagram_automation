@@ -6,7 +6,8 @@ Selenium , time , random , ActionChains , Webdriver , Keys.
 
 > **Install these _Libraries_ by using these codes**
 
-```pip install selenium```
+
+```$ pip install selenium```
 
 _time , random module is part of Python's standard library._
 
