@@ -29,15 +29,15 @@ Chrome drivers [available here](https://chromedriver.chromium.org/downloads).
 
 3.  Chakka Sabareesh ........... [Github](https://github.com/Sabareesh45) ........... [LinkedIn](https://www.linkedin.com/in/sabareesh-chakka-83a18221a) -->
 
-1.  Tentu Uday Kiran ........... [GitHub](https://github.com/uktentu) ........... [LinkedIn](https://www.linkedin.com/in/uday-kiran-tentu-9b3b90211)
+1.  Tentu Uday Kiran ........... [GitHub](https://github.com/uktentu)[<img src="https://img.icons8.com/ios/50/000000/github--v2.png"/>](https://github.com/uktentu) ........... [LinkedIn](https://www.linkedin.com/in/uday-kiran-tentu-9b3b90211)[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/uday-kiran-tentu-9b3b90211)
 
 
-2.  Sudha Jithendra Reddy ........... [GitHub](https://github.com/Sudhajithendra) ........... [LinkedIn](https://www.linkedin.com/in/sudha-jithendra-reddy-860953206)
+2.  Sudha Jithendra Reddy ........... [GitHub](https://github.com/Sudhajithendra)[<img src="https://img.icons8.com/ios/50/000000/github--v2.png"/>](https://github.com/Sudhajithendra) ........... [LinkedIn](https://www.linkedin.com/in/sudha-jithendra-reddy-860953206)[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/sudha-jithendra-reddy-860953206)
 
 
-3.  Pesala Veera Venkata Nikhilesh  ........... [GitHub](https://github.com/nikhileshpesala) ........... [LinkedIn](https://www.linkedin.com/in/nikhilesh-pesala-veera-venkata/)
+3.  Pesala Veera Venkata Nikhilesh  ........... [GitHub](https://github.com/nikhileshpesala)[<img src="https://img.icons8.com/ios/50/000000/github--v2.png"/>](https://github.com/nikhileshpesala) ........... [LinkedIn](https://www.linkedin.com/in/nikhilesh-pesala-veera-venkata/)[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/nikhilesh-pesala-veera-venkata/)
 
-4.  Grandhi Venkata Padhmavathi  ........... [GitHub](https://github.com/GrandhiPadmavathi) ........... [LinkedIn](https://www.linkedin.com/in/padmavathi-grandhi-7b5b39234)
+4.  Grandhi Venkata Padhmavathi  ........... [GitHub](https://github.com/GrandhiPadmavathi)[<img src="https://img.icons8.com/ios/50/000000/github--v2.png"/>](https://github.com/GrandhiPadmavathi) ........... [LinkedIn](https://www.linkedin.com/in/padmavathi-grandhi-7b5b39234)[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/padmavathi-grandhi-7b5b39234)
 ### Suggestions
 
 > Use a better Internet Connection.
