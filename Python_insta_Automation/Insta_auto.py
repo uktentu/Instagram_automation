@@ -119,11 +119,11 @@ class insta_auto():
 
 
 
-def main(no_times):
+def main(no_times=1):
     for i in range(no_times):
         Instagram_automation = insta_auto()
         sleep(100)
 
 
 if __name__=='__main__':
-    main(1)
+    main()
