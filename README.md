@@ -1,4 +1,4 @@
-# Insta_auto
+# Instagram_Automation
 
 ## Libraries
 
@@ -36,7 +36,7 @@ Chrome drivers [available here](https://chromedriver.chromium.org/downloads).
 
 3.  Pesala Veera Venkata Nikhilesh  ........... [GitHub](https://github.com/nikhileshpesala) ........... [LinkedIn](https://www.linkedin.com/in/nikhilesh-pesala-veera-venkata/)
 
-4.  Grandhi Venkata Padhmavathi  ........... [GitHub](https://github.com/nikhileshpesala) ........... [LinkedIn](https://www.linkedin.com/in/nikhilesh-pesala-veera-venkata/)
+4.  Grandhi Venkata Padhmavathi  ........... [GitHub](https://github.com/GrandhiPadmavathi) ........... [LinkedIn](https://www.linkedin.com/in/padmavathi-grandhi-7b5b39234)
 ### Suggestions
 
 > Use a better Internet Connection.
