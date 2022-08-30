@@ -30,6 +30,7 @@ Chrome drivers [available here](https://chromedriver.chromium.org/downloads).
 
 3.  Chakka Sabareesh ........... [Github](https://github.com/Sabareesh45) ........... [LinkedIn](https://www.linkedin.com/in/sabareesh-chakka-83a18221a) -->
 
+Team Leader
 1.  Tentu Uday Kiran ........... [GitHub](https://github.com/uktentu)[<img src="https://img.icons8.com/ios/25/000000/github--v2.png"/>](https://github.com/uktentu) ........... [LinkedIn](https://www.linkedin.com/in/uday-kiran-tentu-9b3b90211)[<img src="https://img.icons8.com/fluency/25/000000/linkedin.png"/>](https://www.linkedin.com/in/uday-kiran-tentu-9b3b90211) ........... [Resume](https://drive.google.com/file/d/1S_djauw5Mlnv_PZAnYDkIiGBY6BV4J5g/view?usp=drivesdk)[<img src="https://img.icons8.com/office/25/000000/resume.png"/>](https://drive.google.com/file/d/1S_djauw5Mlnv_PZAnYDkIiGBY6BV4J5g/view?usp=drivesdk)
 
 
